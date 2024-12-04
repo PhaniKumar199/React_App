@@ -4,7 +4,7 @@ const React = () => {
   return (
     <div>
         <h1>Hello</h1>
-        <h1>This is Phani</h1>
+        <h1>This is Phani Kumar</h1>
 
     </div>
   )
